@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+backend/.env
+ml/digit_model.keras
+ml/confusion_matrix.png
+ml/training_report.json
+client/target/
+*.class
+.idea/
+.vscode/
