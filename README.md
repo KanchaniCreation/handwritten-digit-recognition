@@ -1,5 +1,7 @@
 # Handwritten Digit Recognition System
 
+   ![Handwritten Digit Recognition App](docs/screenshot.png)
+
 **Python · TensorFlow · Flask REST API · PostgreSQL · Java Swing**
 
 Draw a digit in a Java desktop app → it is sent to a Flask REST API → a TensorFlow CNN
